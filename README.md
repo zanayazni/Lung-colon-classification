@@ -42,13 +42,8 @@ Repositori ini digunakan untuk classification kanker paru-paru dan kolon menggun
    - Install semua dependensi yang dibutuhkan (misalnya Flask, Streamlit, atau library lain yang digunakan di WebApps).
 
 3. **Menjalankan Aplikasi**:  
-   - Jika menggunakan Flask:
      ```
-     python app.py
-     ```
-   - Jika menggunakan Streamlit:
-     ```
-     streamlit run app.py
+     streamlit run webapps.py
      ```
    - Ikuti instruksi di terminal. Biasanya aplikasi akan bisa diakses melalui browser di alamat `http://localhost:5000` atau sesuai yang tertera.
 
