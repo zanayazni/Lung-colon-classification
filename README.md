@@ -1,13 +1,13 @@
 
 
-# Lung-colon-prediction
+# Lung-colon-classification
 
 ## Deskripsi
 
-Repositori ini digunakan untuk prediksi kanker paru-paru dan kolon menggunakan machine learning. Terdapat dua komponen utama:
+Repositori ini digunakan untuk classification kanker paru-paru dan kolon menggunakan machine learning. Terdapat dua komponen utama:
 
 - **Tubes_PCD.ipynb**: Notebook Jupyter untuk eksplorasi data, preprocessing, training model, dan evaluasi.
-- **WebApps**: Folder berisi aplikasi web untuk melakukan prediksi secara interaktif.
+- **WebApps**: Folder berisi aplikasi web untuk menggunakan model secara interaktif.
 
 ---
 
